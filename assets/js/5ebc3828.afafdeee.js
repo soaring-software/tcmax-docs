@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktcmax_docs=self.webpackChunktcmax_docs||[]).push([["1884"],{98798(s){s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"tcmax_change_logs"}')}}]);
